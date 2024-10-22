@@ -12968,3 +12968,5 @@ s.
 2024-10-21 19:48:53,100:INFO:load_model(model_name=../models/breast_cancer, platform=None, authentication=None, verbose=True)
 2024-10-21 19:49:02,333:INFO:Initializing load_model()
 2024-10-21 19:49:02,333:INFO:load_model(model_name=../model/breast_cancer, platform=None, authentication=None, verbose=True)
+2024-10-21 19:49:34,550:INFO:Initializing load_model()
+2024-10-21 19:49:34,550:INFO:load_model(model_name=breast_cancer_model, platform=None, authentication=None, verbose=True)
